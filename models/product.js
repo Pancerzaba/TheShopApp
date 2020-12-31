@@ -11,4 +11,4 @@ class Product{
         this.price=price
     }
 }
-export default Products
+export default Product

@@ -14,7 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: EPERM: operation not permitted, unlink 'D:\StudiaMarta\TheShopApp\node_modules\source-map-resolve\node_modules\.bin'
+  Error: EPERM: operation not permitted, unlink 'D:\StudiaMarta\TheShopApp\node_modules\xcode\node_modules\.bin'
 
 npm manifest: 
   {
