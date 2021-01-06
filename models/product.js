@@ -1,14 +1,13 @@
-import { Platform } from "react-native";
-import products from "../store/reducers/products";
-
-class Product{
-    constructor(id, ownerId, title, imageURL, description, price){
-        this.id=id;
-        this.ownerId=ownerId;
-        this.title=title;
-        this.imageURL=imageURL
-        this.description=description;
-        this.price=price
+class Product {
+    constructor(id, ownerId, title, imageUrl, description, price) {
+      this.id = id;
+      this.ownerId = ownerId;
+      this.imageUrl = imageUrl;
+      this.title = title;
+      this.description = description;
+      this.price = price;
     }
-}
-export default Product
+  }
+  
+  export default Product;
+  
